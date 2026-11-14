@@ -1,0 +1,8 @@
+package_name,package_version
+afex,1.5.1
+DESeq2,1.52.0
+emmeans,2.0.4
+rnaseqtools,0.0.0.9000
+tidyverse,2.0.0
+tximport,1.40.0
+writexl,2.0.1

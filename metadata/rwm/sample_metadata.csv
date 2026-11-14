@@ -1,0 +1,7 @@
+sample_id,stembancc_id,line_name,line_name_generic,genotype,genotype_pretty,DIV,donor_age,donor_sex,salmon_quant_file_name
+B3_1,856,B856,CTRL1,CTRL,SNCA+/+,60,78,F,B3_1_quant.sf
+B5_1,156,B156,CTRL2,CTRL,SNCA+/+,60,75,M,B5_1_quant.sf
+B1_1,67,B067,CTRL3,CTRL,SNCA+/+,60,72,M,B1_1_quant.sf
+B13_1,831,831-5,TRIP1,TRIP,SNCA-Trip,60,55,F,B13_1_quant.sf
+B9_1,831,831-1,TRIP2,TRIP,SNCA-Trip,60,55,F,B9_1_quant.sf
+B11_1,831,831-3,TRIP3,TRIP,SNCA-Trip,60,55,F,B11_1_quant.sf

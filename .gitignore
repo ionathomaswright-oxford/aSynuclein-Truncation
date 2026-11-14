@@ -1,0 +1,8 @@
+# Data to omit
+seq_data_Thomas-Wright_2026/
+data/
+
+# Scripts to omit
+scripts/prep_scripts/
+scripts/iona_scripts/
+utils/
