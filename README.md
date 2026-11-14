@@ -9,9 +9,9 @@
 ## Data / code availability
 
 - Raw (FASTQ) and processed (Salmon quant.sf) bulk RNA-seq data: available from the Gene Expression Omnibus (GEO) under accession number GSE353879.
-- Metadata: included in this GitHub repository ('XXX'), within folder 'metadata'.
-- Scripts: included in this GitHub repository ('XXX'), within folder 'scripts'.
-- Software details: included in this GitHub repository ('XXX'), within folder 'software_details'.
+- Metadata: included in this GitHub repository ('ionathomaswright-oxford/aSynuclein-Truncation'), within folder 'metadata'.
+- Scripts: included in this GitHub repository ('ionathomaswright-oxford/aSynuclein-Truncation'), within folder 'scripts'.
+- Software details: included in this GitHub repository ('ionathomaswright-oxford/aSynuclein-Truncation'), within folder 'software_details'.
 
 
 ---
