@@ -10,7 +10,7 @@
 # => Any script listed before the current file must be executed beforehand
 
 ### Requirements
-# - sample_metadata.csv available on GitHub repository 'XXX', at metadata/rwm/sample_metadata.csv
+# - sample_metadata.csv available on GitHub repository 'ionathomaswright-oxford/aSynuclein-Truncation', at metadata/rwm/sample_metadata.csv
 # - gene_metadata.csv produced by make_feature_metadata.R
 # - transcript_metadata.csv produced by make_feature_metadata.R
 # - snca_metadata.csv produced by make_feature_metadata.R
